@@ -10,7 +10,7 @@ dependencies:
     version: 1.11.11
   moment:
     specifier: '*'
-    version: 1.0.0
+    version: 2.29.4
 
 devDependencies:
   '@eslint/js':
@@ -1099,8 +1099,8 @@ packages:
       brace-expansion: 2.0.1
     dev: true
 
-  /moment@1.0.0:
-    resolution: {integrity: sha512-OJ+qbuimy8etd9x6HbyUdB0vaneRbm7EXuXs/EewK93a9GwoJfx/E15kbBAMQzZq3N7IdEFY3jwcOzNwILJWoA==}
+  /moment@2.29.4:
+    resolution: {integrity: sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==}
     dev: false
 
   /moo@0.5.2:
